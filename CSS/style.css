@@ -1,0 +1,42 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.container {
+    backdrop-filter: blur(3.5px);
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(11, 14, 54, 0.37);
+    padding: 2rem;
+}
+
+.section-title {
+    color: #1a0dab;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.section-content {
+    margin-bottom: 1.5rem;
+}
+
+.project-title {
+    color: #0c0c0c;
+    font-weight: bold;
+}
+
+.project-description {
+    margin-left: 1.5rem;
+}
+
+.contact-info a {
+    color: #1a0dab;
+    margin-right: 1rem;
+}
+
+.divider {
+    border-top: 1px solid #ccc;
+    margin: 1rem 0;
+}
+
